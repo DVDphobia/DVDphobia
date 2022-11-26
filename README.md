@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DVDphobia
-- 👀 I’m interested in Web development/software development 
-- 🌱 I’m currently learning cpp/Javascript/python 
+- 👀 I’m interested in Programming. 
+- 🌱 I’m currently learning cpp/Javascript/python/C
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
